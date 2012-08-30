@@ -1,0 +1,17 @@
+ru:
+  CMSMain:
+    LANGUAGEDROPDOWNLABEL: "Язык"
+  CMSMain_left.ss:
+    GO: "Ok"
+  Form:
+    LANGAVAIL: "Доступные языки"
+    LANGAOTHER: "Другие языки"
+  Translatable:
+    TRANSLATIONS: "Переводы"
+    CREATE: "Создать новый перевод"
+    NEWLANGUAGE: "Новый язык"
+    CREATEBUTTON: "Создать"
+    EXISTING: "Существующие переводы:"
+    NOTICENEWPAGE: "Сохраните страницу прежде чем переводить"
+    TRANSLATEPERMISSION: "Перевести %s"
+    TRANSLATEALLPERMISSION: "Перевести на все доступные языки"
